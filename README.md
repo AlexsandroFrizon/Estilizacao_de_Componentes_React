@@ -2,4 +2,4 @@ Estilizacao de Componentes React
 
 <hr>
 
-![Captura de tela 2023-03-01 193511](https://user-images.githubusercontent.com/83145774/222280389-c49e1a26-68a7-4859-819a-b2d2ac1a0e50.png)
+![Captura de tela 2023-03-01 194953](https://user-images.githubusercontent.com/83145774/222282664-a09eb80a-5516-4edc-9dde-b9897543dd84.png)
